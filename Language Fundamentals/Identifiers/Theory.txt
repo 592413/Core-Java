@@ -1,0 +1,9 @@
+A name in Java Programs is called Identifiers which can be used for Identification purpose. It can be method name or variable name, class name or Label name.
+
+
+Rules for Defining Java Identifiers:
+1. The only characters that are allowed for naming (a-z), (A-Z), (0-9), ($,_). If we use any other character we will get compile time error.
+2. Identifiers should not start with digits. Example 123total is invalid. We will get compile time error.
+3. Java Identifiers are case sensitive. Off course Java Language itself treated as Case Sensitive Programming Language.
+4. There is no length limit for Java Identifiers.
+5. We can't use reserved words as Identifiers.
